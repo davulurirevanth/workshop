@@ -11,6 +11,6 @@ Our First Presentation on tortoiseGit
 - Making changes
 - Committing
 - Pushing
-
+- Analyzing the final result
 
 - ![TortoiseGit](https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg)
