@@ -1,0 +1,5 @@
+Dear Class,
+
+     For our workshop we will be using tortisegit and github.  If you don't have these make sure you've downloaded tortisegit and set up a github account.  It would be very helpful if before class you tried to make your own reposity and move some files from your machine to the cloud.  We look forward helping you with this software.  
+
+-Jacob 
