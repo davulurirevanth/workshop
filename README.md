@@ -2,6 +2,9 @@
 Our First Presentation on tortoiseGit
 
 ## Contributors
+- Jacob Hughues
+- Eli Ross
+- Revanth Davuluri
 
 ## Agenda
 - Intro
