@@ -10,10 +10,11 @@ Our First Presentation on tortoiseGit
 - Intro
 - Creating a repository
 - Adding collaborator's to a repository
-- Fetching
+- Cloning
 - Making changes
 - Committing
 - Pushing
+- Fetching
 - Analyze the final result
 
 - ![TortoiseGit](https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg)
