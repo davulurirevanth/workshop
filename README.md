@@ -17,4 +17,4 @@ Our First Presentation on tortoiseGit
 - Pulling
 - Analyze the final result
 
-- ![TortoiseGit](https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg)
+![TortoiseGit](https://upload.wikimedia.org/wikipedia/commons/8/88/TortoiseGit_logo.svg)
